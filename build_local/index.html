@@ -9,6 +9,10 @@
     <meta name="author" content="Forekast">
     <link rel="icon" href="../../favicon.ico">
 
+    <link rel="icon" href=/images/favicon-256x256.ico type="image/x-icon"/>
+    <link rel="shortcut icon" href=/images/favicon-256x256.ico type="image/x-icon"/>
+    <link rel="apple-touch-icon" href="/images/favicon-804x804.png">
+
     <title>The Weekly Forekast | A list of the best things happening every week.</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.min.css">
